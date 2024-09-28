@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Rasim\\source\\repos\\OOP Task4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{49E9F855-7099-4C89-9A05-654C235F7851}|OOP Task4.csproj|c:\\users\\rasim\\source\\repos\\oop task4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49E9F855-7099-4C89-9A05-654C235F7851}|OOP Task4.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49E9F855-7099-4C89-9A05-654C235F7851}|OOP Task4.csproj|c:\\users\\rasim\\source\\repos\\oop task4\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49E9F855-7099-4C89-9A05-654C235F7851}|OOP Task4.csproj|solutionrelative:library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49E9F855-7099-4C89-9A05-654C235F7851}|OOP Task4.csproj|c:\\users\\rasim\\source\\repos\\oop task4\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49E9F855-7099-4C89-9A05-654C235F7851}|OOP Task4.csproj|solutionrelative:product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49E9F855-7099-4C89-9A05-654C235F7851}|OOP Task4.csproj|c:\\users\\rasim\\source\\repos\\oop task4\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49E9F855-7099-4C89-9A05-654C235F7851}|OOP Task4.csproj|solutionrelative:book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Library.cs",
+              "DocumentMoniker": "C:\\Users\\Rasim\\source\\repos\\OOP Task4\\Library.cs",
+              "RelativeDocumentMoniker": "Library.cs",
+              "ToolTip": "C:\\Users\\Rasim\\source\\repos\\OOP Task4\\Library.cs",
+              "RelativeToolTip": "Library.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAIwBgAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T17:58:50.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\Rasim\\source\\repos\\OOP Task4\\Book.cs",
+              "RelativeDocumentMoniker": "Book.cs",
+              "ToolTip": "C:\\Users\\Rasim\\source\\repos\\OOP Task4\\Book.cs",
+              "RelativeToolTip": "Book.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T17:56:14.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Rasim\\source\\repos\\OOP Task4\\Product.cs",
+              "RelativeDocumentMoniker": "Product.cs",
+              "ToolTip": "C:\\Users\\Rasim\\source\\repos\\OOP Task4\\Product.cs",
+              "RelativeToolTip": "Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T17:55:08.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Rasim\\source\\repos\\OOP Task4\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Rasim\\source\\repos\\OOP Task4\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAYAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T17:52:10.038Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
